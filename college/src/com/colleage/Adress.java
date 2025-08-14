@@ -19,7 +19,7 @@ public class Adress {
 		@Override
 		public String toString()
   	{
-			
+			System.out.println("Hello EveryBody");
 			
 			return dis +" ," + pin +" "+block ;
 		}
