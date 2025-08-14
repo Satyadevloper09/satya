@@ -19,6 +19,8 @@ public class Adress {
 		@Override
 		public String toString()
   	{
+			System.out.println("Hello EveryOne");
+			System.out.println("Hello Team");
 			
 			return dis +" ," + pin +" "+block ;
 		}
